@@ -14,9 +14,9 @@ function App() {
             </h1>
           </div>
         </div>
-        <div className="row h-75 align-items-center justify-content-between rounded-3 p-2 shadow-lg">
-          <div className="col-lg-4 col-12 mt-n5 ">
-            <h1 className="text-capitalize">
+        <div className="row h-75 align-items-center justify-content-between rounded-3 p-2 ">
+          <div className="col-lg-4 col-12  ">
+            <h1 className="text-capitalize text-md-start text-center">
               questions and answers about login
             </h1>
           </div>
